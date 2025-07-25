@@ -14,6 +14,7 @@
 ### Estruta dos Dados
 
 ```mermaid
+
 classDiagram
     Usuario --> Post: OneToMany
     class Usuario {
